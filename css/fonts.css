@@ -1,0 +1,70 @@
+/* Roboto Font */
+
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url('./fonts/Roboto/Roboto-Light.woff2') format('woff2'),
+        url('./fonts/Roboto/Roboto-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url('./fonts/Roboto/Roboto-Bold.woff2') format('woff2'),
+        url('./fonts/Roboto/Roboto-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('./fonts/Roboto/Roboto-Regular.woff2') format('woff2'),
+        url('./fonts/Roboto/Roboto-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto-Black';
+    src: url('./fonts/Roboto/Roboto-Black.woff2') format('woff2'),
+        url('./fonts/Roboto/Roboto-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+/* HammersmithOne Font */
+
+@font-face {
+    font-family: 'HammersmithOne';
+    src: url('./fonts/Hammersmith_One/HammersmithOne-Regular.woff2') format('woff2'),
+    url('./fonts/Hammersmith_One/HammersmithOne-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Playfair Display Font */
+
+@font-face {
+    font-family: 'Playfair Display Bold';
+    src: url('./fonts/Playfair_Display/PlayfairDisplay-Bold.woff2') format('woff2'),
+    url('./fonts/Playfair_Display/PlayfairDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Playfair Display Black';
+    src: url('./fonts/Playfair_Display/PlayfairDisplay-Black.woff2') format('woff2'),
+    url('./fonts/Playfair_Display/PlayfairDisplay-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Playfair Display Regular';
+    src: url('./fonts/Playfair_Display/PlayfairDisplay-Regular.woff2') format('woff2'),
+    url('./fonts/Playfair_Display/PlayfairDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
